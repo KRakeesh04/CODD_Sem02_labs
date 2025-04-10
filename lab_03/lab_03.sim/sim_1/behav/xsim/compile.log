@@ -1,0 +1,46 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/k_rakeesh/Documents/CACD_labs/lab_03/lab_03.srcs/sources_1/new/lab03_HA.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity lab_03
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/k_rakeesh/Documents/CACD_labs/lab_03/lab_03.srcs/sources_1/new/lab03_HA.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity lab_03
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/k_rakeesh/Documents/CACD_labs/lab_03/lab_03.srcs/sources_1/new/lab03_HA.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity lab_03
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/k_rakeesh/Documents/CACD_labs/lab_03/lab_03.srcs/sources_1/new/Lab03_FA.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Lab03_FA
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/k_rakeesh/Documents/CACD_labs/lab_03/lab_03.srcs/sources_1/new/Lab03_FA.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Lab03_FA
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/k_rakeesh/Documents/CACD_labs/lab_03/lab_03.srcs/sim_1/new/TB_HA.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity TB_HA
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/k_rakeesh/Documents/CACD_labs/lab_03/lab_03.srcs/sim_1/new/TB_HA.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity TB_HA
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/k_rakeesh/Documents/CACD_labs/lab_03/lab_03.srcs/sources_1/new/lab03_HA.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity lab03_HA
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/k_rakeesh/Documents/CACD_labs/lab_03/lab_03.srcs/sim_1/new/TB_HA.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity TB_HA
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/k_rakeesh/Documents/CACD_labs/lab_03/lab_03.srcs/sources_1/new/Lab03_FA.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Lab03_FA
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/k_rakeesh/Documents/CACD_labs/lab_03/lab_03.srcs/sim_1/new/TB_FA.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity TB_FA
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/k_rakeesh/Documents/CACD_labs/lab_03/lab_03.srcs/sources_1/new/Lab03_FA.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Lab03_FA
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/k_rakeesh/Documents/CACD_labs/lab_03/lab_03.srcs/sim_1/new/RCA_TB.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity RCA_TB
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/k_rakeesh/Documents/CACD_labs/lab_03/lab_03.srcs/sim_1/new/RCA_TB.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity RCA_TB
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/k_rakeesh/Documents/CACD_labs/lab_03/lab_03.srcs/sources_1/new/Lab03_RCA_4.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Lab03_RCA_4
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/k_rakeesh/Documents/CACD_labs/lab_03/lab_03.srcs/sim_1/new/RCA_TB.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity RCA_TB
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/k_rakeesh/Documents/CACD_labs/lab_03/lab_03.srcs/sources_1/new/Lab03_RCA_4.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity Lab03_RCA_4
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/k_rakeesh/Documents/CACD_labs/lab_03/lab_03.srcs/sim_1/new/RCA_TB.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity RCA_TB
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/k_rakeesh/Documents/CACD_labs/lab_03/lab_03.srcs/sim_1/new/RCA_TB.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity RCA_TB
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/k_rakeesh/Documents/CACD_labs/lab_03/lab_03.srcs/sources_1/new/RCA_8bits.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity RCA_8bits
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/k_rakeesh/Documents/CACD_labs/lab_03/lab_03.srcs/sim_1/new/TB_RCA_8bit.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity TB_RCA_8bit
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/k_rakeesh/Documents/CACD_labs/lab_03/lab_03.srcs/sources_1/new/lab03_HA.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity lab03_HA
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/k_rakeesh/Documents/CACD_labs/lab_03/lab_03.srcs/sim_1/new/TB_FA.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity TB_FA

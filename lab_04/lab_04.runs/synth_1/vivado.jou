@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:02:38 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Wed Mar 12 01:54:37 2025
+# Process ID: 97687
+# Current directory: /home/k_rakeesh/Documents/CACD_labs/lab_04/lab_04.runs/synth_1
+# Command line: vivado -log Mux_8_to_1.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Mux_8_to_1.tcl
+# Log file: /home/k_rakeesh/Documents/CACD_labs/lab_04/lab_04.runs/synth_1/Mux_8_to_1.vds
+# Journal file: /home/k_rakeesh/Documents/CACD_labs/lab_04/lab_04.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source Mux_8_to_1.tcl -notrace

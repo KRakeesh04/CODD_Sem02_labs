@@ -1,0 +1,12 @@
+
+{ 
+    crc :  7628423094903905342  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto abeb86feaff14f8ea4b5169ce7fe1034 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L secureip --snapshot Circuit2Sim_behav xil_defaultlib.Circuit2Sim" , 
+    buildDate : "Jun 14 2018" , 
+    buildTime : "20:07:38" , 
+    linkCmd : "/usr/bin/gcc -Wa,-W  -O -fPIC  -m64  -Wl,--unresolved-symbols=ignore-all  -o \"xsim.dir/Circuit2Sim_behav/xsimk\"   \"xsim.dir/Circuit2Sim_behav/obj/xsim_0.lnx64.o\" \"xsim.dir/Circuit2Sim_behav/obj/xsim_1.lnx64.o\" \"/opt/Xilinx/Vivado/2018.2/lib/lnx64.o/librdi_simulator_kernel.so\"  \"/opt/Xilinx/Vivado/2018.2/lib/lnx64.o/librdi_simbridge_kernel.so\"" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:02:38 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Tue Apr  8 20:58:06 2025
+# Process ID: 14595
+# Current directory: /home/k_rakeesh/Documents/CACD_labs/lab_07/lab_07.runs/synth_1
+# Command line: vivado -log Counter.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Counter.tcl
+# Log file: /home/k_rakeesh/Documents/CACD_labs/lab_07/lab_07.runs/synth_1/Counter.vds
+# Journal file: /home/k_rakeesh/Documents/CACD_labs/lab_07/lab_07.runs/synth_1/vivado.jou
+#-----------------------------------------------------------
+source Counter.tcl -notrace

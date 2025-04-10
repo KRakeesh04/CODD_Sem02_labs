@@ -1,0 +1,7 @@
+Running: xsim.dir/TB_Multiplier_4bits_behav/xsimk -simmode gui -wdb TB_Multiplier_4bits_behav.wdb -simrunnum 0 -socket 36401
+Design successfully loaded
+Design Loading Memory Usage: 32420 KB (Peak: 32940 KB)
+Design Loading CPU Usage: 40 ms
+Simulation completed
+Simulation Memory Usage: 114156 KB (Peak: 179692 KB)
+Simulation CPU Usage: 50 ms

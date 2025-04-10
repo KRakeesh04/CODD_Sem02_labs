@@ -1,0 +1,12 @@
+
+{ 
+    crc :  5330724007398436544  , 
+    ccp_crc :  0  , 
+    cmdline : " -wto f1b4dbe9620545e3a34afc4333fa93e0 --incr --debug typical --relax --mt 8 -L xil_defaultlib -L secureip --snapshot TB_Decoder_2_to_4_behav xil_defaultlib.TB_Decoder_2_to_4" , 
+    buildDate : "Jun 14 2018" , 
+    buildTime : "20:07:38" , 
+    linkCmd : "/usr/bin/gcc -Wa,-W  -O -fPIC  -m64  -Wl,--unresolved-symbols=ignore-all  -o \"xsim.dir/TB_Decoder_2_to_4_behav/xsimk\"   \"xsim.dir/TB_Decoder_2_to_4_behav/obj/xsim_0.lnx64.o\" \"xsim.dir/TB_Decoder_2_to_4_behav/obj/xsim_1.lnx64.o\" \"/opt/Xilinx/Vivado/2018.2/lib/lnx64.o/librdi_simulator_kernel.so\"  \"/opt/Xilinx/Vivado/2018.2/lib/lnx64.o/librdi_simbridge_kernel.so\"" , 
+    aggregate_nets : 
+    [ 
+    ] 
+} 

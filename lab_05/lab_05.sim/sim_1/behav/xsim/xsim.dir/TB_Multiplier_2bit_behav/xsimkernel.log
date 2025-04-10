@@ -1,0 +1,7 @@
+Running: xsim.dir/TB_Multiplier_2bit_behav/xsimk -simmode gui -wdb TB_Multiplier_2bit_behav.wdb -simrunnum 0 -socket 37349
+Design successfully loaded
+Design Loading Memory Usage: 32368 KB (Peak: 32932 KB)
+Design Loading CPU Usage: 20 ms
+Simulation completed
+Simulation Memory Usage: 114104 KB (Peak: 179640 KB)
+Simulation CPU Usage: 40 ms
